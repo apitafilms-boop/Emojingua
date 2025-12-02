@@ -3,6 +3,7 @@
 A language by Jessica Emberly.
 
 ```
+0️⃣ = 0
 ☝️ = 1
 ✌️ = 2
 🥉 = 3
