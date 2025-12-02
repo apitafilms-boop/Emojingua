@@ -14,8 +14,8 @@ A language by Jessica Emberly.
 🎱 = 8
 🚑 = 9
 
-🏧 = A ((A)tm)
-🖤 = B ((B)lack heart)
+🏧 = A - ((A)tm)
+🖤 = B - ((B)lack heart)
 🎬 = C - ((C)lapboard)
 ⬇️ = D - ((D)own)
 📧 = E - ((E)mail)
